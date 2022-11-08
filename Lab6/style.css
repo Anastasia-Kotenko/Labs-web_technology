@@ -1,0 +1,42 @@
+body {
+	background-color: lightyellow;
+	background-repeat: repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.header{
+	text-align:center ;
+}
+.c1{
+	list-style-type: decimal;
+}
+.c2{
+	list-style-type: decimal;
+}
+.bio{
+	font-family: serif;
+}
+.c3{
+	list-style-type: circle;
+	color: maroon;
+}
+.c4{
+	list-style-type: lower-roman;
+	color: maroon;
+}
+a {
+	text-decoration: none;
+	border-bottom: dotted;
+}
+a:visited {
+	color: yellow;
+}
+a:active{
+	color: red;
+}
+.c7{
+	list-style-type: decimal;
+}
+.c7:hover{
+	cursor: progress;
+}

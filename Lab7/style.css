@@ -1,0 +1,44 @@
+body{
+	background-color: lightyellow;
+}
+img{
+	float: left;
+	margin: 7px 7px 7px 7px
+}
+h1{
+	color: brown;
+	text-align: center;
+}
+.head{
+	color: brown;
+	font-style: italic;
+	font-size: x-large;
+}
+.paint_gal{
+	transition: 1s;
+	width: 180px;
+	height: 150px;
+}
+.paint_gal:hover{
+	transform: scale(3);
+}
+figure{
+	float: right;
+}
+figcaption{
+	caption-side: bottom;
+	text-align: center;
+}
+#menu li{
+	display: inline-block;
+	height: 70px;
+	line-height: 60px;
+	padding: 20px 20px;
+	border-right: 1px solid #0c3474;
+}
+.caption{
+	text-align: center;
+}
+.even{
+	background-color:blueviolet;
+}
